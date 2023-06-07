@@ -1,0 +1,16 @@
+﻿  File.cpp
+C:\Users\khang\source\repos\w1p1++\File.cpp(13,20): error C2374: 'sdds::SHOPPING_DATA_FILE': redefinition; multiple initialization
+C:\Users\khang\source\repos\w1p1++\File.h(9): message : see declaration of 'sdds::SHOPPING_DATA_FILE'
+C:\Users\khang\source\repos\w1p1++\File.cpp(15,8): error C2374: 'sdds::g_sfptr': redefinition; multiple initialization
+C:\Users\khang\source\repos\w1p1++\File.h(11): message : see declaration of 'sdds::g_sfptr'
+C:\Users\khang\source\repos\w1p1++\File.cpp(20,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\khang\source\repos\w1p1++\File.cpp(26,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\khang\source\repos\w1p1++\File.cpp(42,18): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ShoppingList.cpp
+  shoppingListApp.cpp
+  ShoppingRec.cpp
+  Utils.cpp
+C:\Users\khang\source\repos\w1p1++\Utils.cpp(19,11): error C2065: 'g_noOfRecs': undeclared identifier
+C:\Users\khang\source\repos\w1p1++\Utils.cpp(20,5): error C2065: 'g_recs': undeclared identifier
+C:\Users\khang\source\repos\w1p1++\Utils.cpp(20,12): error C2065: 'g_noOfRecs': undeclared identifier
+  Generating Code...
