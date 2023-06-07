@@ -1,0 +1,48 @@
+/*
+*****************************************************************************
+							  reflect.txt
+Full Name  : Xuan Khang Huynh (Cris Huynh)
+Student ID#: 105444228
+Email      : xhuynh@myseneca.ca
+Course     : BTP200 NAA
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+In this ws3, this is the most difficult workshop that i have ever done. The main concept of this
+function is basically determining the ios format and member function. Some part i didnt need to allocate memory 
+
+ios format: It took me nearly 10 hours to understand the concept of the setf,width.
+Because it was tricky when print the table header and item, especially when I setf
+a direction, and I have to unsetf to prevent strange format printed in T1 and T7
+The main concept of the ios format is to control the formatting of input and output data,
+such as the display of numbers, alignment, precision, and other formatting options. 
+It allows me to customize how data is presented when using input and output streams
+Ex: 
+display header function on CalorieList
+cout << "+----------------------------------------------------+" << endl;
+		cout << "| ";
+		cout.width(FOOD_NAME + CALORIES + WHEN+ 6);
+		cout.setf(ios::left);
+		cout.fill(' ');
+
+		if (isValid())
+		{
+			cout << " Daily Calorie Consumption";
+
+		}
+		else
+		{
+			cout << "Invalid Calorie Consumption list";
+		}
+		cout << " |" << endl;
+		cout << "+--------------------------------+------+------------+" << endl;
+
+
+Member function: This is more easy to understand because I have already known about data
+privacy and public. When it takes the function from one header, that means that the function is
+belong to the class that I declared
+Ex:
+int CalorieList::getTotalCalo()const
+int Food::getCalo()const
