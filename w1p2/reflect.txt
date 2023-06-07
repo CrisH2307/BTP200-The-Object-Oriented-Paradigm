@@ -1,0 +1,29 @@
+/*
+*****************************************************************************
+							  reflect.txt
+Full Name  : Xuan Khang Huynh (Cris Huynh)
+Student ID#: 105444228
+Email      : xhuynh@myseneca.ca
+Course     : BTP200 NAA
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+1. What happens if you put the function main in the sdds namespace?
+The function 'main' would not be recognised as the program's entry point if it were placed in the sdds namespace. The 'main' function in C++ acts as the program's entry point and needs to be defined in the global namespace (because you mentioned C++ namespaces).
+'main' becomes a regular function inside a namespace when it is defined there (for example, as sdds::main). Since the compiler anticipates finding the main function in the global namespace, it won't run immediately when the programme launches.
+
+
+2. What are the benefits of putting the code into multiple modules instead of putting everything in a single file?
++ Modularity: Dividing code into modules encourages modularity, enabling you to more efficiently organise and manage your software.
++ Reusability: Modular code is easily transferable between different applications or even between separate projects.
++ Scalability: Managing a single huge file gets more challenging as your codebase expands.
++ Testing and debugging modular code is easier. With different modules, you can concentrate on testing distinct parts in isolation, making it easier to find and address problems. 
++ Code reuse: By organising your code into reusable modules, you may speed up and simplify development.
+
+Ex: ShoppingRec.h + ShoppingList.h + File.h + Utils.h --> ShoppingRec.cpp + ShoppingList.cpp + File.cpp + Utils.cpp ---> ShoppingListApp.cpp (main function)
+Ex2: From Part 2
+#ifndef SDDS_CSTRING_H
+#error // Check the header file if it has errors, useful for debugging
+#endif
