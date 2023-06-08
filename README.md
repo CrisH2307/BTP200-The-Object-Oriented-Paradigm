@@ -22,7 +22,7 @@ Reflection
 
 - WS03 : 20/20 <br />
 
-### COURSE GRADE: A+
+### COURSE GRADE: B+
 
 # Disclaimer
 Please don't just copy the code mindlessly without trying to solve the problems yourself
