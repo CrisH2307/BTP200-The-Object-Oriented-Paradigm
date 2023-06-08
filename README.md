@@ -7,3 +7,8 @@ Professor: Cornel Barna
 - WS01 : 20/20 <br />
 - WS02 : 20/20 <br />
 - WS03 : 20/20 <br />
+
+### COURSE GRADE: A+
+
+# Disclaimer
+Please don't just copy the code mindlessly without trying to solve the problems yourself
