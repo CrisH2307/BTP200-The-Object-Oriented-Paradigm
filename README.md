@@ -8,9 +8,8 @@ Professor: Cornel Barna <br />
 - WS02 : 20/20 <br />
 
 Part #1<br>
-Missing Ownership/Citation Comments ➠ All the files that you submit must contain your name, student id, and your Seneca email. There is a reminder just before you submit the files.<br>
-
-Also, all files must contain a comment specifying if the work in that file is done by you, or parts of it were received as help from somewhere else (and the source of the help).<br><br>
+Missing Ownership/Citation Comments ➠ All the files that you submit must contain your name, student id, and your Seneca email. There is a reminder just before you submit the files.
+Also, all files must contain a comment specifying if the work in that file is done by you, or parts of it were received as help from somewhere else (and the source of the help).<br>
 
 Part #2<br>
 Improvement ➠ Add comments to your code.<br>
