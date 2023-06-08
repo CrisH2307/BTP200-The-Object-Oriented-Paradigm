@@ -6,6 +6,7 @@ Professor: Cornel Barna <br />
 ## Marks secured
 - WS01 : 20/20 <br />
 - WS02 : 20/20 <br />
+
 Part #1<br>
 Missing Ownership/Citation Comments ➠ All the files that you submit must contain your name, student id, and your Seneca email. There is a reminder just before you submit the files.<br>
 
