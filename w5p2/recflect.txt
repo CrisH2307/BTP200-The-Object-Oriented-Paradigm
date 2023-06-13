@@ -1,0 +1,37 @@
+/*
+*****************************************************************************
+							  reflect.txt
+Full Name  : Cris Huynh
+Student ID#: 105444228
+Email      : xhuynh@myseneca.ca
+Course     : BTP200 NAA
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+1. Due to their different semantics and evaluation orders, the prefix increment operator can return by reference
+because it modifies the variable first and then returns the modified value, while the postfix increment operator 
+can only return by value to ensure that the original value is returned before the increment operation occurs.
+
+// add 1 to every element in the collection
+ArrayList& operator++(); //! Pre-fix
+
+// post fix, does the same thing as prefix
+ArrayList operator++(int); //! Post-fix
+
+
+2. The + operator creates a new value and returns it by value, whereas the += operator alters the left-hand
+side variable and can safely return it by reference. The various ways that these operators behave correspond
+to their intended uses and expectations for how they should be applied to expressions.
+Ex: 
+m_mark += value
+result = m_mark + value;
+
+3.  By declaring them as explicit. 
+The explicit keyword ensures that the conversion is only performed when explicitly requested by the user
+Ex: explicit ArrayList operator=(const ArrayList& other);
+
+4. The object calling a member function must always be the left-side operand, and member functions have limits on the operand order. 
+The flexibility and symmetry of the operator's use may be constrained as a result. The helper operators are more flexible, symmetric, 
+and allow for implicit conversions on both operands when implemented as non-member functions.
