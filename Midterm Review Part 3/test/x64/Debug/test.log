@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\khang\source\repos\ws5\test\test\test.cpp(101,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khang\source\repos\ws5\test\test\test.cpp(115,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khang\source\repos\ws5\test\test\test.cpp(155,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\khang\source\repos\ws5\test\x64\Debug\test.exe

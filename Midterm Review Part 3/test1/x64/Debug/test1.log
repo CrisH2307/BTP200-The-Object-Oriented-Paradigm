@@ -1,0 +1,6 @@
+﻿  main.cpp
+  test.cpp
+C:\Users\khang\source\repos\ws5\test\test1\test.cpp(83,17): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\khang\source\repos\ws5\test\x64\Debug\test1.exe : fatal error LNK1120: 1 unresolved externals

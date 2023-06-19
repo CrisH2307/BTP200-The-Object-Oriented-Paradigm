@@ -1,0 +1,6 @@
+﻿  main.cpp
+  test.cpp
+C:\Users\khang\source\repos\ws5\test\test2\test.cpp(15,14): warning C4552: '!=': result of expression not used
+C:\Users\khang\source\repos\ws5\test\test2\test.cpp(30,19): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Generating Code...
+  test2.vcxproj -> C:\Users\khang\source\repos\ws5\test\x64\Debug\test2.exe
