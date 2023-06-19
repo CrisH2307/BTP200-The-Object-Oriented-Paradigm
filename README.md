@@ -21,6 +21,10 @@ Reflection
 
 
 - WS03 : 20/20 <br />
+✔️ Workshop ➠ Your workshop looks good! <br>
+Cornel Barna <br>
+- WS04 : 20/20 <br />
+- WS05 : 20/20 <br />
 
 ### COURSE GRADE: B+
 
