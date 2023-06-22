@@ -18,8 +18,7 @@ Reflection
 
 
 - WS03 : 20/20 <br />
-✔️ Workshop’s Code ➠ Your workshop’s code looks good!
-Reflection
+✔️ Workshop’s Code ➠ Your workshop’s code looks good! <br>
 ✔️ Reflection ➠ Your reflection looks good!
 
 - WS04 : 20/20 <br />
