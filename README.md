@@ -18,9 +18,13 @@ Reflection
 
 
 - WS03 : 20/20 <br />
-✔️ Workshop ➠ Your workshop looks good! <br>
+✔️ Workshop’s Code ➠ Your workshop’s code looks good!
+Reflection
+✔️ Reflection ➠ Your reflection looks good!
 
 - WS04 : 20/20 <br />
+✔️ Workshop ➠ Your workshop looks good! <br>
+
 - WS05 : 20/20 <br />
 
 - Midterm: 69/90 <br />
