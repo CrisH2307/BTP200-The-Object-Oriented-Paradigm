@@ -26,6 +26,8 @@ Reflection
 - WS04 : 20/20 <br />
 - WS05 : 20/20 <br />
 
+- Midterm: 69/90 <br />
+
 ### COURSE GRADE: B+
 
 # Disclaimer
