@@ -25,8 +25,10 @@ Reflection
 ✔️ Workshop ➠ Your workshop looks good! <br>
 
 - WS05 : 20/20 <br />
+✔️ Workshop ➠ Your workshop looks good! <br>
 
 - Midterm: 69/90 <br />
+➠ Incorrect allocate memory
 
 ### COURSE GRADE: B+
 
