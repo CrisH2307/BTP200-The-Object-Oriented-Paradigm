@@ -1,0 +1,25 @@
+/*
+*****************************************************************************
+							  reflect.txt
+Full Name  : Cris Huynh
+Student ID#: 105444228
+Email      : xhuynh@myseneca.ca
+Course     : BTP200 NAA
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+A class is a blueprint or a template for creating objects. 
+It defines a collection of related data members (attributes) and member functions (methods) that operate on those data members.
+
+A derived class, sometimes referred to as a subclass or child class in object-oriented programming, is a class that receives attributes and behaviours
+from another class known as the base class, superclass, or parent class. Here are some important distinctions between base classes and derived classes
+Resources refer to dynamically allocated memory, file handles, network connections, or any other limited system or programmatic entities that need to be managed carefully
+Dynamically allocated memory via new and delete, file handles gained by opening files, and network sockets are typical instances of resources.
++ Inheritance: Used to construct derived classes, allowing them to reuse the functionality and code of the base class. 
++ Code Reusability: By allowing derived classes to inherit the common properties and behaviours provided in the base class, inheritance encourages code reuse.
++ Modifying Existing Attributes and Methods: Derived classes can add new attributes and methods or alter existing ones to increase their usefulness.
++ Overriding Methods: Derived classes can override methods defined in the base class
+The input and output stream objects, cin and cout, respectively, are used for input and output operations. These stream objects, 
+which are a component of the common input/output library (iostream), let you communicate with users and show information on screens.
