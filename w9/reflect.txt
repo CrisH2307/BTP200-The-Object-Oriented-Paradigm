@@ -1,0 +1,28 @@
+/*
+*****************************************************************************
+							  reflect.txt
+Full Name  : Cris Huynh
+Student ID#: 105444228
+Email      : xhuynh@myseneca.ca
+Course     : BTP200 NAA
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+The resources controlled by the base class are resources that derived classes in C++ inherit along with other members and behaviours. 
+It's crucial to take inheritance's effects on resource management into account when working with resources like memory, file handles, 
+or other system resources.
+Imagine having a set of shapes-creating building blocks. There is an assistant who has a basic understanding of geometric forms like squares
+and circles. Now, using the fundamental information, new clever assistants may create more intricate forms like stars and flowers (derived classes). 
+Each assistant plays with their own set of blocks and cleans up after playtime.
+
+Pros:
+Code reuse: Resource management functionality from base classes can be inherited by derived classes.
+Base classes can offer a high-level abstraction of resource management, shielding derived classes from the specifics of resource acquisition and release. 
+Polymorphism is made possible by inheritance, which enables derived classes to be viewed as instances of the base class. 
+
+Cons:
+Resource ownership can become more complicated as a result of inheritance. 
+Resource leakage is a risk that can result from improper resource management in derived classes. 
+Tight Coupling: When resource management is involved, inheritance can lead to tight coupling between base and derived classes.
