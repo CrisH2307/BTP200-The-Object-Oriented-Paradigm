@@ -1,0 +1,35 @@
+/*
+*****************************************************************************
+							  reflect.txt
+Full Name  : Cris Huynh
+Student ID#: 105444228
+Email      : xhuynh@myseneca.ca
+Course     : BTP200 NAA
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+Virtual Function: A member function in C++ that can be overridden in a derived class is known as a virtual function. 
+When a virtual function is used to access an instance of a base class via a pointer or reference, the correct function
+is called depending on the actual type of the object being pointed to or referenced, not the type of the pointer or reference.
+Pros:
+Runtime polymorphism is made possible through virtual functions, which enables distinct classes to be viewed as instances of their base class.
+This encourages code reuse and makes class hierarchy management easier.
+Flexibility: A base class can establish a common interface using virtual functions, while derived classes can define their own unique implementations. 
+As a result, the code is more extensible and flexible.
+Cons: 
+Performance overhead is added when virtual functions are used. 
+Complexity of inheritance: Hierarchies with numerous levels of virtual functions and deep inheritance can be challenging to handle.
+Virtual functions and abstract classes offer powerful abstraction, but they might not be appropriate in all circumstances.
+Virtual functions frequently result in tighter coupling between classes since derived classes are dependent on the interface of the base class. 
+
+Abstract Base Classes: In C++, abstract base classes are classes that cannot be directly created but instead act as a common interface for a 
+collection of related classes. They create an abstract class by defining a collection of virtual functions, including at least one pure virtual function. 
+An abstract class serves as a model for derived classes, laying out the required implementation of a shared interface.
+
+Pro:
+Definition of Abstraction and Interface: For a collection of related classes, abstract base classes define a common interface.
+
+Con:
+Incomplete Implementation: Because abstract base classes include only pure virtual functions, they cannot be instantiated directly, which results in their implementations being insufficient.
