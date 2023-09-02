@@ -27,10 +27,25 @@ In source code files, add comments to describe how the goal is achieved. These c
 - WS05 : 20/20 <br />
 ✔️ Workshop ➠ Your workshop looks good! <br>
 
+- WS06 : 20/20 <br />
+- WS07 : 20/20 <br />
+- WS08 : 20/20 <br />
+- WS09 : 20/20 <br />
+- WS10 : 20/20 <br />
+
 - Midterm: 69/90 <br />
 ➠ Incorrect allocate memory
 
-### COURSE GRADE: B+
+- Final: 70/90 <br />
+
+- Final Project : 100 / 100 <br>
+  - MileStone 1: 10/10 <br>
+  - MileStone 2: 10/10 <br>
+  - MileStone 3: 10/10 <br />
+  - MileStone 4: 10/10 <br />
+  - MileStone 5: 50/50 <br />
+  
+### COURSE GRADE: A
 
 # Disclaimer
 Please don't just copy the code mindlessly without trying to solve the problems yourself
