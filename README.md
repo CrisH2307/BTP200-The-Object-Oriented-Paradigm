@@ -1,9 +1,8 @@
 # BTP200 - The Object-Oriented Paradigm Using C++
 ### Seneca College of Applied Arts and Technology, Seneca Polytechnic<br />
-### Duration: May 2023 - July 2023<br />
-### Professor: Cornel Barna <br />
-### Duration: July 2023 - August 2023<br />
-### Professor: Jeevan Pant <br />
+### Duration: May 2023 - August 2023<br />
+### Professor: Cornel Barna and Jeevan Pant <br />
+
 
 ## Marks secured
 - WS01 : 20/20 <br />
