@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 08\main.h(40,5): error C2535: 'Student::Student(int)': member function already defined or declared
+C:\Users\khang\source\repos\BTP200WS\Session 08\main.h(39,5): message : see declaration of 'Student::Student'
