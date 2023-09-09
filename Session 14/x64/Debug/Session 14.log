@@ -1,0 +1,51 @@
+﻿  main.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.h(43,30): error C2499: 'sdds::Person': a class cannot be its own base class
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(31,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(31,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(31,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(31,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(32,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(32,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(32,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(32,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(32,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(33,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(33,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(33,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(34,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(34,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(34,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(34,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(34,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(34,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(36,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(36,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(36,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(36,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(37,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(37,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(37,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(37,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(37,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khang\source\repos\BTP200WS\Session 14\main.cpp(38,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Student.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.h(43,30): error C2499: 'sdds::Person': a class cannot be its own base class
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(12,8): error C2059: syntax error: '='
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(13,10): error C2059: syntax error: '='
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(13,19): error C2630: ';' found in what should be a comma-separated list
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(14,3): error C2059: syntax error: 'for'
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(15,22): error C2630: ';' found in what should be a comma-separated list
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(16,14): error C2059: syntax error: '='
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(16,18): error C2630: ';' found in what should be a comma-separated list
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(17,2): error C2059: syntax error: '}'
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(21,2): error C2630: ';' found in what should be a comma-separated list
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(21,2): error C2612: trailing 'identifier' illegal in base/member initializer list
+C:\Users\khang\source\repos\BTP200WS\Session 14\Student.cpp(127,1): fatal  error C1004: unexpected end-of-file found
+  Generating Code...
