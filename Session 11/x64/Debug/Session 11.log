@@ -1,0 +1,17 @@
+﻿  connectFileReading.cpp
+  connectFileWriting.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 11\connectFileWriting.cpp(8,19): error C2374: 'fout': redefinition; multiple initialization
+C:\Users\khang\source\repos\BTP200WS\Session 11\connectFileWriting.cpp(7,19): message : see declaration of 'fout'
+  createFileReading.cpp
+  main.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 11\main.cpp(177,20): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Student'
+C:\Users\khang\source\repos\BTP200WS\Session 11\main.cpp(177,20): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\khang\source\repos\BTP200WS\Session 11\main.cpp(216,5): error C3861: 'getline': identifier not found
+  readFile.cpp
+  string.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 11\string.cpp(14,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  writeFile.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 11\writeFile.cpp(8,13): warning C4101: 'i': unreferenced local variable
+C:\Users\khang\source\repos\BTP200WS\Session 11\writeFile.cpp(17,1): error C2059: syntax error: '}'
+C:\Users\khang\source\repos\BTP200WS\Session 11\writeFile.cpp(17,1): error C2143: syntax error: missing ';' before '}'
+  Generating Code...
