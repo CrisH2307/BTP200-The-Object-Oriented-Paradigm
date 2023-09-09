@@ -1,0 +1,5 @@
+﻿  ArrayList.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 09\ArrayList.h(44,17): error C2804: binary 'operator <<' has too many parameters
+  compare.cpp
+C:\Users\khang\source\repos\BTP200WS\Session 09\ArrayList.h(44,17): error C2804: binary 'operator <<' has too many parameters
+  Generating Code...
